@@ -1,6 +1,8 @@
 ---
-title: Senior Technical Writer
----  
+title: Anupam Nayak
+---
+### Senior Technical Writer
+
 **Data Integration • APIs • Cloud Documentation**
 
 ---

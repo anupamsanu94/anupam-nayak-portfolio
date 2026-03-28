@@ -1,4 +1,4 @@
-# SAP Signavio – Process Intelligence Documentation
+# SAP Signavio – Process Insights Documentation
 
 **Company:** SAP  
 **Role:** Senior User Assistance Developer  
@@ -8,7 +8,7 @@
 
 ## 🔹 Overview
 
-Worked on SAP Signavio documentation, focusing on process intelligence and analytics.
+Worked on SAP Signavio documentation, focusing on process insights and recommendations.
 
 ---
 

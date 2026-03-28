@@ -26,7 +26,7 @@ Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations us
 - [Fortify Extension for Visual Studio](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/vse-ugd-html-25.4.0/index.html)  
 - [Core Application Security Plugin for IntelliJ IDEA](https://www.microfocus.com/documentation/fortify-on-demand/intj-254/coreappsec-intellij-ugd-html-25.4/index.html)  
 
-→ [Explore Fortify Documentation](work/opentext.md)
+→ [Explore Fortify Documentation](work/opentext.html)
 
 ---
 </div>
@@ -38,7 +38,7 @@ Documentation for process intelligence, analytics, and API-based integrations.
 - [Innovation Recommendations Guide](https://help.sap.com/docs/signavio-process-insights/user-guide/improving-performance-with-innovation-recommendations?)  
 - [Process Insights API Reference Guide](https://help.sap.com/docs/signavio-process-insights/api-reference/introduction?locale=en-US)  
 
-→ [Explore SAP Documentation](work/sap-signavio.md)
+→ [Explore SAP Documentation](work/sap-signavio.html)
 
 ---
 </div>
@@ -58,14 +58,14 @@ Documentation for cloud data integration connectors and large-scale ETL pipeline
 - [Frequently Asked Questions for Google BigQuery V2 Connector](https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector/abstract.html) 
 - [Transferring data between Kafka topics and MongoDB collections](https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti/abstract.html) 
 
-→ [Explore Informatica Documentation](work/informatica.md) 
+→ [Explore Informatica Documentation](work/informatica.html) 
 
 ---
 </div>
 ## 🧩 Case Studies
 
-- [Scaling Documentation for Security Products (Fortify)](case-studies/fortify-documentation.md)  
-- [Designing Scalable Connector Documentation](case-studies/connector-docs.md)  
+- [Scaling Documentation for Security Products (Fortify)](case-studies/fortify-documentation.html)  
+- [Designing Scalable Connector Documentation](case-studies/connector-docs.html)  
 
 ---
 

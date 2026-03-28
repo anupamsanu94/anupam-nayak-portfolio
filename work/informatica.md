@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Informatica – Cloud Data Integration Connectors
 ---
 

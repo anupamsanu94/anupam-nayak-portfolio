@@ -1,69 +1,163 @@
-# Case Study: Scaling Documentation for Enterprise Application Security (Fortify)
+# Case Study: Scaling and Optimizing Documentation for Enterprise Application Security (Fortify)
 
 ## 🔹 Context
 
 At OpenText, I worked on Fortify Application Security products, including Static Code Analyzer (SAST) and IDE integrations (VS Code, IntelliJ).
 
-The documentation ecosystem supported multiple products, frequent releases, and a diverse developer audience.
+The documentation ecosystem supported:
+- Multiple products and integrations  
+- Frequent release cycles  
+- A global developer audience with varying expertise levels  
 
 ---
 
 ## 🔹 Problem
 
-The documentation faced several challenges:
+As the product suite scaled, documentation challenges became more visible:
 
-- Rapid release cycles with frequent feature additions  
-- Inconsistent structure across user guides  
-- Limited clarity in error messages and UI text  
-- High dependency on support for basic configuration issues  
+### 1. Inconsistent Documentation Structure
+- Different guides followed different formats  
+- Users struggled to find key information quickly  
+
+### 2. Weak Error Message Clarity
+- Error messages were system-centric rather than user-centric  
+- Users relied heavily on support for troubleshooting  
+
+### 3. Documentation Lag vs Releases
+- Documentation updates were reactive rather than aligned with development  
+- Last-minute updates increased inconsistencies  
+
+### 4. Fragmented User Experience
+- UI, documentation, and workflows were not fully aligned  
+- Developers had to switch contexts frequently  
 
 ---
 
 ## 🔹 Approach
 
-To address these challenges, I focused on:
+I approached this as a **documentation system problem**, not just a writing task.
 
-### 1. Standardization
-- Created reusable documentation structures for user guides  
-- Ensured consistency across multiple product documents  
+### 1. Documentation Standardization Framework
 
-### 2. Deep Product Understanding
-- Participated in sprint meetings, feature demos, and roadmap discussions  
-- Conducted UI reviews for newly developed features  
+Defined a reusable structure for all user guides:
 
-### 3. Cross-Functional Collaboration
-- Worked closely with developers, product managers, and UX teams  
-- Provided feedback on UI text, error messages, and workflows  
+1. Overview  
+2. Prerequisites  
+3. Installation / Setup  
+4. Configuration  
+5. Usage  
+6. Troubleshooting  
+7. FAQs  
 
-### 4. AI-Assisted Authoring
-- Leveraged Microsoft Copilot for drafting, rewriting, and summarization  
-- Improved consistency and reduced documentation turnaround time  
+This ensured:
+- Predictable navigation  
+- Faster content creation  
+- Consistent user experience  
+
+---
+
+### 2. Shift-Left Documentation Strategy
+
+- Participated in sprint planning, backlog refinement, and demos  
+- Documented features during development—not after release  
+- Identified documentation gaps early  
+
+---
+
+### 3. UI & Error Message Improvements
+
+Worked closely with UX and engineering to improve clarity.
+
+#### Example (Before → After)
+
+**Before:**
+Scan failed due to invalid configuration.
+
+
+**After:**
+Scan failed because the project path is invalid or inaccessible.
+
+Resolution:
+
+Verify the project path exists
+Ensure required permissions are enabled
+
+
+👉 Result:
+- Reduced ambiguity  
+- Enabled self-service troubleshooting  
+
+---
+
+### 4. AI-Assisted Documentation Workflow
+
+Used Microsoft Copilot to:
+
+- Generate first drafts from SME inputs  
+- Rewrite complex technical content for clarity  
+- Standardize tone and terminology  
+
+👉 This reduced manual effort while maintaining quality through review cycles.
+
+---
+
+### 5. Documentation + UX Alignment
+
+- Reviewed UI labels, tooltips, and workflows  
+- Suggested improvements for consistency between UI and docs  
+- Ensured terminology alignment across all touchpoints  
 
 ---
 
 ## 🔹 Solution
 
-Delivered a structured and scalable documentation system:
+Built a scalable and maintainable documentation system:
 
-- Comprehensive user guides for SAST and IDE integrations  
-- Improved UI text and error message clarity  
-- Standardized formatting and navigation across documentation portal  
-- Faster documentation delivery aligned with release cycles  
+- Standardized user guides across Fortify products  
+- Integrated documentation into the development lifecycle  
+- Improved troubleshooting through actionable content  
+- Aligned UI and documentation language  
 
 ---
 
 ## 🔹 Impact
 
+### 📈 Quantitative Outcomes
 - Delivered 20+ user guides across multiple releases  
-- Improved customer self-service and reduced reliance on support  
-- Enhanced clarity of UI messaging and documentation usability  
-- Reduced documentation development time using AI-assisted workflows  
+- Reduced documentation turnaround time using AI-assisted workflows  
+- Improved release readiness by aligning docs with sprint cycles  
+
+### 📊 Qualitative Outcomes
+- Improved developer experience through clearer guidance  
+- Reduced dependency on support for common issues  
+- Increased consistency across documentation portal  
+
+---
+
+## 🔹 Before vs After Summary
+
+| Area | Before | After |
+|------|--------|-------|
+| Structure | Inconsistent | Standardized templates |
+| Error Messages | Vague, system-focused | Actionable, user-focused |
+| Workflow | Reactive documentation | Shift-left, proactive |
+| UX Alignment | Fragmented | Consistent across UI + docs |
+| Authoring | Manual-heavy | AI-assisted + optimized |
 
 ---
 
 ## 🔹 Key Learnings
 
-- Documentation quality is tightly coupled with product and UX quality  
-- Early involvement in the development lifecycle improves accuracy  
-- Standardization is critical for scaling documentation across products  
-- AI tools can significantly improve productivity when used strategically  
+- Documentation is a product, not a deliverable  
+- Standardization is essential for scaling content  
+- Early involvement in development improves quality  
+- Clear error messaging significantly reduces support load  
+- AI tools are effective when combined with human review  
+
+---
+
+## 🔹 What I Would Improve Further
+
+- Introduce analytics-driven documentation improvements  
+- Add interactive troubleshooting flows  
+- Integrate documentation directly within the product UI  

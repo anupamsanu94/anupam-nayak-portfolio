@@ -15,8 +15,9 @@ title: Anupam Nayak
 ## 🔹 Featured Work
 
 ## 📘 Enterprise Documentation
+<div class="card">
 
-### OpenText Fortify (Application Security)
+### OpenText Application Security
 Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations used by developers and security teams.
 
 - [Static Application Security Testing (SAST) User Guide](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2610/sast-ugd-html-26.1.0/index.html#/home)  
@@ -28,6 +29,8 @@ Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations us
 → [Explore Fortify Documentation](work/opentext.md)
 
 ---
+</div>
+<div class="card">
 
 ### SAP Signavio (Business Process Intelligence)
 Documentation for process intelligence, analytics, and API-based integrations.
@@ -38,6 +41,8 @@ Documentation for process intelligence, analytics, and API-based integrations.
 → [Explore SAP Documentation](work/sap-signavio.md)
 
 ---
+</div>
+<div class="card">
 
 ### Informatica Cloud Data Integration (Connectors & APIs)
 Documentation for cloud data integration connectors and large-scale ETL pipelines across enterprise systems.
@@ -56,7 +61,7 @@ Documentation for cloud data integration connectors and large-scale ETL pipeline
 → [Explore Informatica Documentation](work/informatica.md) 
 
 ---
-
+</div>
 ## 🧩 Case Studies
 
 - [Scaling Documentation for Security Products (Fortify)](case-studies/fortify-documentation.md)  

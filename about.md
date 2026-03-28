@@ -1,3 +1,7 @@
+---
+title: About Me
+---
+
 I am an AI-enabled Senior Technical Writer with over 9 years of experience creating high-quality documentation for enterprise software products across application security, business process intelligence, and cloud data integration domains.
 
 I have worked with leading organizations including OpenText, SAP, and Informatica, where I contributed to large-scale documentation ecosystems spanning user guides, API documentation, connectors, and knowledge base systems.

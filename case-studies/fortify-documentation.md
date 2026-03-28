@@ -1,5 +1,5 @@
 ---
-title: Case Study: Scaling and Optimizing Documentation for Enterprise Application Security (Fortify)
+title: Case Study -> Scaling and Optimizing Documentation for Enterprise Application Security (Fortify)
 ---
 
 ## 🔹 Context

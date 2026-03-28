@@ -1,4 +1,6 @@
-# OpenText – Application Security Documentation
+---
+title: OpenText – Application Security Documentation
+---
 
 **Company:** OpenText  
 **Role:** Senior Technical Writer  

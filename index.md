@@ -2,8 +2,8 @@
 layout: default
 title: Anupam Nayak
 ---
-### Senior Technical Writer
 
+### Senior Technical Writer  
 **Data Integration • APIs • Cloud Documentation**
 
 ---
@@ -12,89 +12,105 @@ title: Anupam Nayak
 
 ---
 
-## 🔹 Featured Work
-
+## 🔹 Featured Work  
 ## 📘 Enterprise Documentation
 
 <div class="card">
 
-### OpenText Application Security
-Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations used by developers and security teams.
+<h3>OpenText Application Security</h3>
 
-- [Static Application Security Testing (SAST) User Guide](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2610/sast-ugd-html-26.1.0/index.html#/home)  
-- [Fortify Analysis Plugin for IntelliJ IDEA & Android Studio](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/iap-ugd-html-25.4.0/index.html)  
-- [Fortify Plugin for Eclipse](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/ep-ugd-html-25.4.0/index.html)  
-- [Fortify Extension for Visual Studio](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/vse-ugd-html-25.4.0/index.html)  
-- [Core Application Security Plugin for IntelliJ IDEA](https://www.microfocus.com/documentation/fortify-on-demand/intj-254/coreappsec-intellij-ugd-html-25.4/index.html)  
+<p>Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations used by developers and security teams.</p>
 
-→ [Explore Fortify Documentation](work/opentext.html)
+<ul>
+  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2610/sast-ugd-html-26.1.0/index.html#/home">SAST User Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/iap-ugd-html-25.4.0/index.html">IntelliJ & Android Studio Plugin Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/ep-ugd-html-25.4.0/index.html">Eclipse Plugin Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/vse-ugd-html-25.4.0/index.html">Visual Studio Extension Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-on-demand/intj-254/coreappsec-intellij-ugd-html-25.4/index.html">Core AppSec IntelliJ Guide</a></li>
+</ul>
 
----
+<p>→ <a href="{{ site.baseurl }}/work/opentext.html">Explore Fortify Documentation</a></p>
 
 </div>
+
+---
 
 <div class="card">
 
-### SAP Signavio (Business Process Intelligence)
-Documentation for process intelligence, analytics, and API-based integrations.
+<h3>SAP Signavio (Business Process Insights)</h3>
 
-- [Innovation Recommendations Guide](https://help.sap.com/docs/signavio-process-insights/user-guide/improving-performance-with-innovation-recommendations?)  
-- [Process Insights API Reference Guide](https://help.sap.com/docs/signavio-process-insights/api-reference/introduction?locale=en-US)  
+<p>Documentation for process insights, recommendations, and APIs.</p>
 
-→ [Explore SAP Documentation](work/sap-signavio.html)
+<ul>
+  <li><a href="https://help.sap.com/docs/signavio-process-insights/user-guide/improving-performance-with-innovation-recommendations?">Innovation Recommendations Guide</a></li>
+  <li><a href="https://help.sap.com/docs/signavio-process-insights/api-reference/introduction?locale=en-US">Process Insights API Reference</a></li>
+</ul>
 
----
+<p>→ <a href="{{ site.baseurl }}/work/sap-signavio.html">Explore SAP Documentation</a></p>
 
 </div>
+
+---
 
 <div class="card">
 
-### Informatica Cloud Data Integration (Connectors & APIs)
-Documentation for cloud data integration connectors and large-scale ETL pipelines across enterprise systems.
+<h3>Informatica Cloud Data Integration</h3>
 
-#### 🔹 Featured Connectors
-- [Google BigQuery Connector Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html)  
-- [Kafka Connector Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html)  
-- [Google Cloud Storage Connector Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-cloud-storage-connector.html)  
-- [Google Pub/Sub Connector Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-pubsub-connector.html)  
+<p>Documentation for cloud data integration connectors and large-scale ETL pipelines across enterprise systems.</p>
 
-#### 🔹 How-To & Best Practices
-- [Performance tuning and best practices for Google BigQuery V2 Connector](https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1601-performance-tuning-and-best-practices-for-google-bigquery-v/abstract.html) 
-- [Frequently Asked Questions for Google BigQuery V2 Connector](https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector/abstract.html) 
-- [Transferring data between Kafka topics and MongoDB collections](https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti/abstract.html) 
+<h4>🔹 Featured Connectors</h4>
+<ul>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html">BigQuery Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html">Kafka Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-cloud-storage-connector.html">GCS Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-pubsub-connector.html">Pub/Sub Connector Guide</a></li>
+</ul>
 
-→ [Explore Informatica Documentation](work/informatica.html) 
+<h4>🔹 Best Practices</h4>
+<ul>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1601-performance-tuning-and-best-practices-for-google-bigquery-v/abstract.html">BigQuery Performance Tuning</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector/abstract.html">BigQuery FAQ</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti/abstract.html">Kafka → MongoDB Pipeline Guide</a></li>
+</ul>
 
----
+<p>→ <a href="{{ site.baseurl }}/work/informatica.html">Explore Informatica Documentation</a></p>
 
 </div>
+
+---
 
 ## 🧩 Case Studies
 
-- [Scaling Documentation for Security Products (Fortify)](case-studies/fortify-documentation.html)  
-- [Designing Scalable Connector Documentation](case-studies/connector-docs.html)  
+<ul>
+  <li><a href="{{ site.baseurl }}/case-studies/fortify-documentation.html">Scaling Documentation for Security Products (Fortify)</a></li>
+  <li><a href="{{ site.baseurl }}/case-studies/connector-docs.html">Designing Scalable Connector Documentation</a></li>
+</ul>
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Documentation Systems:** MadCap Flare, Ixiasoft CCMS, Markdown, GitHub  
-**Data & Cloud:** BigQuery, Kafka, Google Cloud Storage, ETL Pipelines  
-**Languages:** SQL, Python, Java  
-**AI Tools:** Microsoft Copilot, AI-assisted authoring  
+<p><strong>Documentation Systems:</strong> MadCap Flare, Ixiasoft CCMS, Markdown, GitHub</p>  
+<p><strong>Data & Cloud:</strong> BigQuery, Kafka, Google Cloud Storage, ETL Pipelines</p>  
+<p><strong>Languages:</strong> SQL, Python, Java</p>  
+<p><strong>AI Tools:</strong> Microsoft Copilot, AI-assisted authoring</p>
 
 ---
 
 ## 🎯 What I Bring
 
-- Scalable, structured documentation systems  
-- Strong collaboration with engineering, product, and UX teams  
-- Deep expertise in data platforms, APIs, and connectors  
-- Focus on improving developer experience and product adoption  
+<ul>
+  <li>Scalable, structured documentation systems</li>
+  <li>Strong collaboration with engineering, product, and UX teams</li>
+  <li>Deep expertise in data platforms, APIs, and connectors</li>
+  <li>Focus on improving developer experience and product adoption</li>
+</ul>
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/anupam-nayak  
-- Email: anupamsanu94@gmail.com  
+<ul>
+  <li><a href="https://www.linkedin.com/in/anupam-nayak">LinkedIn</a></li>
+  <li><a href="mailto:anupamsanu94@gmail.com">Email</a></li>
+</ul>

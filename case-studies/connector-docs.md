@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Case Study -> Designing Scalable Connector Documentation
 ---
 

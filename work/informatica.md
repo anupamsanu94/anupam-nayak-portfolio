@@ -1,4 +1,6 @@
-# Informatica – Cloud Data Integration Connectors
+---
+title: Informatica – Cloud Data Integration Connectors
+---
 
 **Role:** Senior Technical Writer  
 **Duration:** 2016 – 2022  

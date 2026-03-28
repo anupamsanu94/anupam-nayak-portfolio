@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Anupam Nayak
 ---
 ### Senior Technical Writer

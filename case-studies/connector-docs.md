@@ -1,5 +1,5 @@
 ---
-title: Case Study: Designing Scalable Connector Documentation
+title: Case Study -> Designing Scalable Connector Documentation
 ---
 
 ## 🔹 Problem

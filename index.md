@@ -1,4 +1,6 @@
-### Senior Technical Writer  
+---
+title: Senior Technical Writer
+---  
 **Data Integration • APIs • Cloud Documentation**
 
 ---

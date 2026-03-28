@@ -1,4 +1,3 @@
-# Anupam Nayak  
 ### Senior Technical Writer  
 **Data Integration • APIs • Cloud Documentation**
 
@@ -21,7 +20,7 @@ Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations us
 - [Fortify Extension for Visual Studio](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/vse-ugd-html-25.4.0/index.html)  
 - [Core Application Security Plugin for IntelliJ IDEA](https://www.microfocus.com/documentation/fortify-on-demand/intj-254/coreappsec-intellij-ugd-html-25.4/index.html)  
 
-→ [Explore Fortify Documentation](work/fortify.md)
+→ [Explore Fortify Documentation](work/opentext.md)
 
 ---
 

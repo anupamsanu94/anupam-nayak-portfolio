@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Case Study -> Scaling and Optimizing Documentation for Enterprise Application Security (Fortify)
 ---
 

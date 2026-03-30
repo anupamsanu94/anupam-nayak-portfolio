@@ -17,6 +17,33 @@ title: Anupam Nayak
 
 <div class="card">
 
+<h3>Informatica Cloud Data Integration</h3>
+
+<p>Documentation for cloud data integration connectors and large-scale ETL pipelines across enterprise systems.</p>
+
+<h4>🔹 Featured Connectors</h4>
+<ul>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html">BigQuery Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html">Kafka Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-cloud-storage-connector.html">GCS Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-pubsub-connector.html">Pub/Sub Connector Guide</a></li>
+</ul>
+
+<h4>🔹How-To Library Articles and Best Practices</h4>
+<ul>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1601-performance-tuning-and-best-practices-for-google-bigquery-v/abstract.html">BigQuery Performance Tuning</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector/abstract.html">BigQuery FAQ</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti/abstract.html">Kafka → MongoDB Pipeline Guide</a></li>
+</ul>
+
+<p>→ <a href="{{ site.baseurl }}/work/informatica.html">Explore Informatica Documentation</a></p>
+
+</div>
+
+---
+
+<div class="card">
+
 <h3>OpenText Application Security</h3>
 
 <p>Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations used by developers and security teams.</p>
@@ -47,33 +74,6 @@ title: Anupam Nayak
 </ul>
 
 <p>→ <a href="{{ site.baseurl }}/work/sap-signavio.html">Explore SAP Documentation</a></p>
-
-</div>
-
----
-
-<div class="card">
-
-<h3>Informatica Cloud Data Integration</h3>
-
-<p>Documentation for cloud data integration connectors and large-scale ETL pipelines across enterprise systems.</p>
-
-<h4>🔹 Featured Connectors</h4>
-<ul>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html">BigQuery Connector Guide</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html">Kafka Connector Guide</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-cloud-storage-connector.html">GCS Connector Guide</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-pubsub-connector.html">Pub/Sub Connector Guide</a></li>
-</ul>
-
-<h4>🔹 Best Practices</h4>
-<ul>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1601-performance-tuning-and-best-practices-for-google-bigquery-v/abstract.html">BigQuery Performance Tuning</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector/abstract.html">BigQuery FAQ</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti/abstract.html">Kafka → MongoDB Pipeline Guide</a></li>
-</ul>
-
-<p>→ <a href="{{ site.baseurl }}/work/informatica.html">Explore Informatica Documentation</a></p>
 
 </div>
 

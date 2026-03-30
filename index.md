@@ -25,7 +25,7 @@ title: Anupam Nayak
 <ul>
   <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html">BigQuery Connector Guide</a></li>
   <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html">Kafka Connector Guide</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-cloud-storage-connector.html">GCS Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-cloud-storage-v2-connector.html">Google Cloud Storage V2 Connector Guide</a></li>
   <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-pubsub-connector.html">Pub/Sub Connector Guide</a></li>
 </ul>
 

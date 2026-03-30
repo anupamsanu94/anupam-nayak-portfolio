@@ -46,14 +46,15 @@ title: Anupam Nayak
 
 <h3>OpenText Application Security</h3>
 
-<p>Enterprise documentation for Static Code Analyzer (SAST) and IDE integrations used by developers and security teams.</p>
+<p>Enterprise documentation for Static Application Security Testing (SAST) and IDE integrations used by developers and security teams.</p>
 
 <ul>
   <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2610/sast-ugd-html-26.1.0/index.html#/home">SAST User Guide</a></li>
-  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/iap-ugd-html-25.4.0/index.html">IntelliJ & Android Studio Plugin Guide</a></li>
-  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/ep-ugd-html-25.4.0/index.html">Eclipse Plugin Guide</a></li>
-  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/vse-ugd-html-25.4.0/index.html">Visual Studio Extension Guide</a></li>
-  <li><a href="https://www.microfocus.com/documentation/fortify-on-demand/intj-254/coreappsec-intellij-ugd-html-25.4/index.html">Core AppSec IntelliJ Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/iap-ugd-html-25.4.0/index.html">Application Security Plugin for IntelliJ & Android Studio User Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/ep-ugd-html-25.4.0/index.html">Application Security Plugin for Eclipse User Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/vse-ugd-html-25.4.0/index.html">Application Security Extension for Visual Studio User Guide</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-visual-studio-code/2540/vscode-ext-ugd-html-25.4.0/index.html">Application Security Analysis Extension for Visual Studio Code</a></li>
+  <li><a href="https://www.microfocus.com/documentation/fortify-on-demand/intj-254/coreappsec-intellij-ugd-html-25.4/index.html">Core Application Security Plugin for IntelliJ IDEA User Guide</a></li>
 </ul>
 
 <p>→ <a href="{{ site.baseurl }}/work/opentext.html">Explore Fortify Documentation</a></p>

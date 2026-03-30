@@ -23,7 +23,7 @@ title: Anupam Nayak
 
 <h4>🔹 Featured Connectors</h4>
 <ul>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html">BigQuery Connector Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html">Google BigQuery V1 and V2 Connectors Guide</a></li>
   <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html">Kafka Connector Guide</a></li>
   <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-cloud-storage-v2-connector.html">Google Cloud Storage V2 Connector Guide</a></li>
   <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-pubsub-v2-connector.html">Google PubSub V2 Connector Guide</a></li>
@@ -31,9 +31,9 @@ title: Anupam Nayak
 
 <h4>🔹How-To Library Articles and Best Practices</h4>
 <ul>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1601-performance-tuning-and-best-practices-for-google-bigquery-v/abstract.html">BigQuery Performance Tuning</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector/abstract.html">BigQuery FAQ</a></li>
-  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti/abstract.html">Kafka → MongoDB Pipeline Guide</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1601-performance-tuning-and-best-practices-for-google-bigquery-v/abstract.html">Performance tuning and best practices for Google BigQuery V2 Connector</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1669-frequently-asked-questions-for-google-bigquery-v2-connector/abstract.html">Frequently Asked Questions for Google BigQuery V2 Connector</a></li>
+  <li><a href="https://docs.informatica.com/integration-cloud/data-integration-connectors/h2l/1429-transferring-data-between-kafka-topics-and-mongodb-collecti/abstract.html">Transferring data between Kafka topics and MongoDB collections in Cloud Data Integration</a></li>
 </ul>
 
 <p>→ <a href="{{ site.baseurl }}/work/informatica.html">Explore Informatica Documentation</a></p>

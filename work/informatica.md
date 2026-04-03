@@ -49,7 +49,6 @@ Worked extensively on Informatica Intelligent Cloud Services (IICS), focusing on
 
 ### User Guides
 - [Google BigQuery V1 and V2 Connectors Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html)
-
 - [Kafka Connector Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html)
 
 ### How-To Articles

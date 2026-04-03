@@ -35,8 +35,8 @@ Authored enterprise documentation for Fortify Application Security products, inc
 
 ## 🔹 Sample Documentation
 
-- https://www.microfocus.com/documentation/.../sast-ugd-html-25.4.0/index.html  
-- https://www.microfocus.com/documentation/.../vscode-rem-ext...  
+- [SAST User Guide](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2610/sast-ugd-html-26.1.0/index.html)
+- [Application Security Plugin for IntelliJ & Android Studio User Guide](https://www.microfocus.com/documentation/fortify-static-code-analyzer-and-tools/2540/iap-ugd-html-25.4.0/index.html)
 
 ---
 

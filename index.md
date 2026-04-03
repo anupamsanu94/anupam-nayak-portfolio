@@ -112,6 +112,6 @@ title: Anupam Nayak
 ## 📬 Contact
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/anupam-nayak">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/anupamnayaktw">LinkedIn</a></li>
   <li><a href="mailto:anupamsanu94@gmail.com">Email</a></li>
 </ul>

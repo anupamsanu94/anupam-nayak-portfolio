@@ -48,13 +48,14 @@ Worked extensively on Informatica Intelligent Cloud Services (IICS), focusing on
 ## 🔹 Sample Documentation
 
 ### User Guides
-- https://docs.informatica.com/.../google-bigquery-connectors.html  
-- https://docs.informatica.com/.../kafka-connector.html  
+- [Google BigQuery V1 and V2 Connectors Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/google-bigquery-connectors.html)
+
+- [Kafka Connector Guide](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/kafka-connector.html)
 
 ### How-To Articles
-- Pushdown Optimization using BigQuery  
-- Performance Tuning Guidelines  
-- Kafka Data Transfer Best Practices  
+- Performance tuning and best practices for Google BigQuery V2 Connector
+- Frequently Asked Questions for Google BigQuery V2 Connector
+- Transferring data between Kafka topics and MongoDB collections in Cloud Data Integration
 
 ---
 

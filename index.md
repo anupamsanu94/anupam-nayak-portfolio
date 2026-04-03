@@ -91,8 +91,8 @@ title: Anupam Nayak
 
 ## 🛠️ Tools & Technologies
 
-<p><strong>Documentation Systems:</strong> MadCap Flare, Ixiasoft CCMS, Markdown, GitHub</p>  
-<p><strong>Data & Cloud:</strong> BigQuery, Kafka, Google Cloud Storage, ETL Pipelines</p>  
+<p><strong>Documentation Systems:</strong> MadCap Flare, Ixiasoft CCMS, XMetaL Systems, SDL Publisher, Markdown, GitHub</p>  
+<p><strong>Data & Cloud:</strong> BigQuery, Kafka, Google Cloud Storage, ETL & ELT Pipelines</p>  
 <p><strong>Languages:</strong> SQL, Python, Java</p>  
 <p><strong>AI Tools:</strong> Microsoft Copilot, AI-assisted authoring</p>
 
